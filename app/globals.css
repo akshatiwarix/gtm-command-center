@@ -1,26 +1,79 @@
 @import "tailwindcss";
 
+/*
+ * Command Center palette: neutral paper/ink base, three accents that carry
+ * meaning rather than decoration — one per sub-score, used identically
+ * everywhere a score appears (table, sliders, breakdown chart, legend, feed).
+ * Fit reads as structural/steady (slate blue); Signal reads as urgency/recency
+ * (amber); Engagement reads as warmth/relationship (teal).
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  --paper: #f5f4f0;
+  --paper-raised: #ffffff;
+  --ink: #1a1a17;
+  --ink-dim: #6b6459;
+  --line: #ddd9ce;
+  --line-strong: #b6afa0;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --fit: #3a5a8c;
+  --fit-dim: #c9d6e8;
+  --signal: #b3701f;
+  --signal-dim: #efd9b5;
+  --engagement: #1f7a68;
+  --engagement-dim: #c3e4dc;
+  --priority: #a02638;
+  --priority-dim: #e8bfc4;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --paper: #15130f;
+    --paper-raised: #1c1a15;
+    --ink: #ede9e1;
+    --ink-dim: #a49b8a;
+    --line: #332e21;
+    --line-strong: #4a4429;
+
+    --fit: #7fa3d6;
+    --fit-dim: #23324a;
+    --signal: #d6a04a;
+    --signal-dim: #453214;
+    --engagement: #4fbba5;
+    --engagement-dim: #163a30;
+    --priority: #e2717e;
+    --priority-dim: #4a232a;
   }
 }
 
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-raised: var(--paper-raised);
+  --color-ink: var(--ink);
+  --color-ink-dim: var(--ink-dim);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-fit: var(--fit);
+  --color-fit-dim: var(--fit-dim);
+  --color-signal: var(--signal);
+  --color-signal-dim: var(--signal-dim);
+  --color-engagement: var(--engagement);
+  --color-engagement-dim: var(--engagement-dim);
+  --color-priority: var(--priority);
+  --color-priority-dim: var(--priority-dim);
+  --font-display: var(--font-newsreader);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+* {
+  border-color: var(--line);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
 }
