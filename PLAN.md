@@ -475,6 +475,15 @@ environment variables, no secrets, no external calls at runtime — the corpus i
 committed, so the deployment is static plus pure client/server compute. `main` is
 the production branch; every task pushes.
 
+Vercel Authentication (SSO protection) is **on by default** for new projects on
+this team and was explicitly disabled for this project's production deployment
+— otherwise the "Live demo" link 302-redirects to a Vercel login for any visitor
+who isn't a member of the team, which defeats the point of a public portfolio
+link. (Spot-checked: the sibling `lead-quality-benchmark` deployment has the
+same default-on protection and was not disabled, so its own live link may not
+actually be publicly viewable — worth a follow-up check across the series, out
+of scope for this day's build.)
+
 ---
 
 ## README plan
@@ -499,21 +508,21 @@ language, no code.
 
 ## Definition of done
 
-- [ ] `npm run build`, `npm run typecheck`, `npm run lint` all clean.
-- [ ] `npm test` green, including every scoring-formula and research-traceability
+- [x] `npm run build`, `npm run typecheck`, `npm run lint` all clean.
+- [x] `npm test` green, including every scoring-formula and research-traceability
       assertion.
-- [ ] `npm run sweep` green on all nine invariants.
-- [ ] Command Center live on Vercel, opening on the precomputed result with no
+- [x] `npm run sweep` green on all nine invariants.
+- [x] Command Center live on Vercel, opening on the precomputed result with no
       interaction required.
-- [ ] Both screens implemented, reading from one command-center computation.
-- [ ] Weight sliders visibly change the table's sort order (verified in-browser
+- [x] Both screens implemented, reading from one command-center computation.
+- [x] Weight sliders visibly change the table's sort order (verified in-browser
       with real drag input on the live deployment).
-- [ ] Global signal feed renders and correctly links into account detail.
-- [ ] Account detail page renders breakdown chart, timeline, research, and
+- [x] Global signal feed renders and correctly links into account detail.
+- [x] Account detail page renders breakdown chart, timeline, research, and
       explanation for at least one zero-signal account and one high-signal
       account.
-- [ ] README with real screenshots from the live deployment; plain-English guide.
-- [ ] Every task pushed to `main`.
+- [x] README with real screenshots from the live deployment; plain-English guide.
+- [x] Every task pushed to `main`.
 
 ---
 
