@@ -1,0 +1,6351 @@
+{
+  "asOfDate": "2026-08-15",
+  "accounts": [
+    {
+      "id": "acc-001",
+      "name": "Bluewave Cloud",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 14,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 150
+    },
+    {
+      "id": "acc-002",
+      "name": "Crestline Technologies",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 9,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 121
+    },
+    {
+      "id": "acc-003",
+      "name": "Pioneer Software",
+      "industry": "Fintech",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 9,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 88
+    },
+    {
+      "id": "acc-004",
+      "name": "Meridian Systems",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 24,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 20
+    },
+    {
+      "id": "acc-005",
+      "name": "Bright Networks",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 17,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 47
+    },
+    {
+      "id": "acc-006",
+      "name": "Northwind Labs",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 21,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 121
+    },
+    {
+      "id": "acc-007",
+      "name": "Stonebridge Labs",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 26,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 121
+    },
+    {
+      "id": "acc-008",
+      "name": "Cobalt Networks",
+      "industry": "Fintech",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 104
+    },
+    {
+      "id": "acc-009",
+      "name": "Pinnacle Cloud",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 35,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 46
+    },
+    {
+      "id": "acc-010",
+      "name": "Ridgeline Data",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 10,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 78
+    },
+    {
+      "id": "acc-011",
+      "name": "Nova Robotics",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 17,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 7
+    },
+    {
+      "id": "acc-012",
+      "name": "Summit Robotics",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 19,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 74
+    },
+    {
+      "id": "acc-013",
+      "name": "Atlas Software",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 22,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 75
+    },
+    {
+      "id": "acc-014",
+      "name": "Cascade Health",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 10,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 106
+    },
+    {
+      "id": "acc-015",
+      "name": "Cobalt AI",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 18,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 17
+    },
+    {
+      "id": "acc-016",
+      "name": "Granite Analytics",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 6,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 177
+    },
+    {
+      "id": "acc-017",
+      "name": "Summit Dynamics",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 4,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 59
+    },
+    {
+      "id": "acc-018",
+      "name": "Anchor Technologies",
+      "industry": "Fintech",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 10,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 19
+    },
+    {
+      "id": "acc-019",
+      "name": "Granite Industries",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 24,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 134
+    },
+    {
+      "id": "acc-020",
+      "name": "Clearwater Digital",
+      "industry": "Retail",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 34,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 57
+    },
+    {
+      "id": "acc-021",
+      "name": "Granite Systems",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 16,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 137
+    },
+    {
+      "id": "acc-022",
+      "name": "Bluewave Technologies",
+      "industry": "Retail",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 30,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 153
+    },
+    {
+      "id": "acc-023",
+      "name": "Crestline Financial",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 39,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 37
+    },
+    {
+      "id": "acc-024",
+      "name": "Pioneer Digital",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 25,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 175
+    },
+    {
+      "id": "acc-025",
+      "name": "Ironclad Data",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 25,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 95
+    },
+    {
+      "id": "acc-026",
+      "name": "Summit Networks",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 2,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 11
+    },
+    {
+      "id": "acc-027",
+      "name": "Quantum Dynamics",
+      "industry": "Fintech",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 34,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 146
+    },
+    {
+      "id": "acc-028",
+      "name": "Bright Dynamics",
+      "industry": "SaaS",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 11,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 177
+    },
+    {
+      "id": "acc-029",
+      "name": "Vertex Technologies",
+      "industry": "SaaS",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 34,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 114
+    },
+    {
+      "id": "acc-030",
+      "name": "Orbit Cloud",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 23,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 133
+    },
+    {
+      "id": "acc-031",
+      "name": "Clearwater Financial",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 22,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 43
+    },
+    {
+      "id": "acc-032",
+      "name": "Redwood Cloud",
+      "industry": "SaaS",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 8,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 67
+    },
+    {
+      "id": "acc-033",
+      "name": "Orbit Works",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 38,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 90
+    },
+    {
+      "id": "acc-034",
+      "name": "Ridgeline AI",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 39,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 140
+    },
+    {
+      "id": "acc-035",
+      "name": "Summit Systems",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 31,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 70
+    },
+    {
+      "id": "acc-036",
+      "name": "Redwood Systems",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 27,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 169
+    },
+    {
+      "id": "acc-037",
+      "name": "Northwind Robotics",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 4,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 88
+    },
+    {
+      "id": "acc-038",
+      "name": "Ironclad Robotics",
+      "industry": "Healthcare",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 1,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 62
+    },
+    {
+      "id": "acc-039",
+      "name": "Ember Robotics",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 23,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 166
+    },
+    {
+      "id": "acc-040",
+      "name": "Bluewave Labs",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 23,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 11
+    },
+    {
+      "id": "acc-041",
+      "name": "Bright Logistics",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 14,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 2
+    },
+    {
+      "id": "acc-042",
+      "name": "Beacon Robotics",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 1,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 158
+    },
+    {
+      "id": "acc-043",
+      "name": "Nova Data",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 32,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 19
+    },
+    {
+      "id": "acc-044",
+      "name": "Redwood Health",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 176
+    },
+    {
+      "id": "acc-045",
+      "name": "Horizon Networks",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 2,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 147
+    },
+    {
+      "id": "acc-046",
+      "name": "Ember Partners",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 39,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 112
+    },
+    {
+      "id": "acc-047",
+      "name": "Orbit Systems",
+      "industry": "Other",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 14,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 115
+    },
+    {
+      "id": "acc-048",
+      "name": "Orbit Analytics",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 20,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 113
+    },
+    {
+      "id": "acc-049",
+      "name": "Meridian Solutions",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 5,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 62
+    },
+    {
+      "id": "acc-050",
+      "name": "Atlas Health",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 14,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 127
+    },
+    {
+      "id": "acc-051",
+      "name": "Cascade Financial",
+      "industry": "Fintech",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 5,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 73
+    },
+    {
+      "id": "acc-052",
+      "name": "Cascade Labs",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 24,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 11
+    },
+    {
+      "id": "acc-053",
+      "name": "Ironclad Cloud",
+      "industry": "SaaS",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 11,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 61
+    },
+    {
+      "id": "acc-054",
+      "name": "Stonebridge Solutions",
+      "industry": "Fintech",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 34,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 4
+    },
+    {
+      "id": "acc-055",
+      "name": "Horizon Group",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 10,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 83
+    },
+    {
+      "id": "acc-056",
+      "name": "Horizon Software",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 36,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 12
+    },
+    {
+      "id": "acc-057",
+      "name": "Beacon Logistics",
+      "industry": "Other",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 34,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 158
+    },
+    {
+      "id": "acc-058",
+      "name": "Ironclad Labs",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 8,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 96
+    },
+    {
+      "id": "acc-059",
+      "name": "Stonebridge AI",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 32,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 125
+    },
+    {
+      "id": "acc-060",
+      "name": "Meridian Partners",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 30,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 61
+    },
+    {
+      "id": "acc-061",
+      "name": "Orbit Digital",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 34,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 112
+    },
+    {
+      "id": "acc-062",
+      "name": "Beacon Labs",
+      "industry": "Healthcare",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 34,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 128
+    },
+    {
+      "id": "acc-063",
+      "name": "Nova Software",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 11,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 164
+    },
+    {
+      "id": "acc-064",
+      "name": "Anchor Industries",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 12,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 104
+    },
+    {
+      "id": "acc-065",
+      "name": "Bluewave Networks",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 14,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 12
+    },
+    {
+      "id": "acc-066",
+      "name": "Anchor Solutions",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 25,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 44
+    },
+    {
+      "id": "acc-067",
+      "name": "Horizon Labs",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 38,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 55
+    },
+    {
+      "id": "acc-068",
+      "name": "Foundry Digital",
+      "industry": "SaaS",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 24,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 30
+    },
+    {
+      "id": "acc-069",
+      "name": "Silverline Robotics",
+      "industry": "Fintech",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 5,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 158
+    },
+    {
+      "id": "acc-070",
+      "name": "Catalyst Health",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 40,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 48
+    },
+    {
+      "id": "acc-071",
+      "name": "Nova Digital",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 34,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 111
+    },
+    {
+      "id": "acc-072",
+      "name": "Catalyst Labs",
+      "industry": "SaaS",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 3,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 68
+    },
+    {
+      "id": "acc-073",
+      "name": "Meridian Labs",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 26,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 127
+    },
+    {
+      "id": "acc-074",
+      "name": "Meridian Data",
+      "industry": "Retail",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 23,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 114
+    },
+    {
+      "id": "acc-075",
+      "name": "Vector AI",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 33,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 57
+    },
+    {
+      "id": "acc-076",
+      "name": "Vertex Systems",
+      "industry": "Healthcare",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 25,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 44
+    },
+    {
+      "id": "acc-077",
+      "name": "Foundry Logistics",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 9,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 24
+    },
+    {
+      "id": "acc-078",
+      "name": "Horizon Cloud",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 15,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 12
+    },
+    {
+      "id": "acc-079",
+      "name": "Lumen Financial",
+      "industry": "Other",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 38,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 137
+    },
+    {
+      "id": "acc-080",
+      "name": "Vertex Robotics",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 37,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 107
+    },
+    {
+      "id": "acc-081",
+      "name": "Ridgeline Dynamics",
+      "industry": "Healthcare",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 21,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 90
+    },
+    {
+      "id": "acc-082",
+      "name": "Ember Labs",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 29,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 47
+    },
+    {
+      "id": "acc-083",
+      "name": "Crestline Data",
+      "industry": "Retail",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 23,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 15
+    },
+    {
+      "id": "acc-084",
+      "name": "Cascade Cloud",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 12,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 143
+    },
+    {
+      "id": "acc-085",
+      "name": "Foundry Software",
+      "industry": "Retail",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 12,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 140
+    },
+    {
+      "id": "acc-086",
+      "name": "Meridian Health",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 16,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 22
+    },
+    {
+      "id": "acc-087",
+      "name": "Cobalt Works",
+      "industry": "SaaS",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 23,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 49
+    },
+    {
+      "id": "acc-088",
+      "name": "Redwood AI",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 8,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 45
+    },
+    {
+      "id": "acc-089",
+      "name": "Clearwater Partners",
+      "industry": "Retail",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 3,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 170
+    },
+    {
+      "id": "acc-090",
+      "name": "Horizon Data",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 30,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 156
+    },
+    {
+      "id": "acc-091",
+      "name": "Horizon Dynamics",
+      "industry": "SaaS",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 32,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 125
+    },
+    {
+      "id": "acc-092",
+      "name": "Summit Data",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 11,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 141
+    },
+    {
+      "id": "acc-093",
+      "name": "Summit Technologies",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 27,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 48
+    },
+    {
+      "id": "acc-094",
+      "name": "Foundry Robotics",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 6,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 98
+    },
+    {
+      "id": "acc-095",
+      "name": "Silverline Industries",
+      "industry": "Retail",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 22,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 174
+    },
+    {
+      "id": "acc-096",
+      "name": "Cobalt Financial",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 31,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 46
+    },
+    {
+      "id": "acc-097",
+      "name": "Lumen Systems",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 99
+    },
+    {
+      "id": "acc-098",
+      "name": "Orbit Financial",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 3,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 58
+    },
+    {
+      "id": "acc-099",
+      "name": "Vertex Health",
+      "industry": "Healthcare",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 4,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 25
+    },
+    {
+      "id": "acc-100",
+      "name": "Stonebridge Health",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 8,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 43
+    },
+    {
+      "id": "acc-101",
+      "name": "Bright Digital",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 31,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 54
+    },
+    {
+      "id": "acc-102",
+      "name": "Vector Robotics",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 32,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 96
+    },
+    {
+      "id": "acc-103",
+      "name": "Clearwater Cloud",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 23,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 60
+    },
+    {
+      "id": "acc-104",
+      "name": "Northwind Group",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 6,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 92
+    },
+    {
+      "id": "acc-105",
+      "name": "Cascade Group",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 10,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 59
+    },
+    {
+      "id": "acc-106",
+      "name": "Ridgeline Financial",
+      "industry": "Fintech",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 24,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 39
+    },
+    {
+      "id": "acc-107",
+      "name": "Pioneer Data",
+      "industry": "Retail",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 3,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 70
+    },
+    {
+      "id": "acc-108",
+      "name": "Northwind Technologies",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 10,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 114
+    },
+    {
+      "id": "acc-109",
+      "name": "Anchor Works",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 37
+    },
+    {
+      "id": "acc-110",
+      "name": "Nova Partners",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 37,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 172
+    },
+    {
+      "id": "acc-111",
+      "name": "Summit Health",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 22,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 52
+    },
+    {
+      "id": "acc-112",
+      "name": "Silverline Cloud",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 26,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 7
+    },
+    {
+      "id": "acc-113",
+      "name": "Granite Digital",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 115
+    },
+    {
+      "id": "acc-114",
+      "name": "Northwind Digital",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 12,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 163
+    },
+    {
+      "id": "acc-115",
+      "name": "Vertex Partners",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 28,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 38
+    },
+    {
+      "id": "acc-116",
+      "name": "Cascade Networks",
+      "industry": "SaaS",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 34,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 47
+    },
+    {
+      "id": "acc-117",
+      "name": "Clearwater Networks",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 34,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 124
+    },
+    {
+      "id": "acc-118",
+      "name": "Bluewave Solutions",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 10,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 87
+    },
+    {
+      "id": "acc-119",
+      "name": "Atlas Dynamics",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 13,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 116
+    },
+    {
+      "id": "acc-120",
+      "name": "Bluewave Industries",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 28,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 39
+    },
+    {
+      "id": "acc-121",
+      "name": "Crestline AI",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 58
+    },
+    {
+      "id": "acc-122",
+      "name": "Atlas AI",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 5,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 32
+    },
+    {
+      "id": "acc-123",
+      "name": "Orbit Logistics",
+      "industry": "Healthcare",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 31,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 148
+    },
+    {
+      "id": "acc-124",
+      "name": "Pioneer Solutions",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 12,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 141
+    },
+    {
+      "id": "acc-125",
+      "name": "Bright Health",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 2,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 155
+    },
+    {
+      "id": "acc-126",
+      "name": "Bluewave Systems",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 5,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 48
+    },
+    {
+      "id": "acc-127",
+      "name": "Summit AI",
+      "industry": "Retail",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 32,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 75
+    },
+    {
+      "id": "acc-128",
+      "name": "Nova Cloud",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 2
+    },
+    {
+      "id": "acc-129",
+      "name": "Ridgeline Networks",
+      "industry": "Other",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 3,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 26
+    },
+    {
+      "id": "acc-130",
+      "name": "Lumen Software",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 34,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 96
+    },
+    {
+      "id": "acc-131",
+      "name": "Catalyst Partners",
+      "industry": "Retail",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 0,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 62
+    },
+    {
+      "id": "acc-132",
+      "name": "Redwood Works",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 133
+    },
+    {
+      "id": "acc-133",
+      "name": "Beacon Dynamics",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 2,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 111
+    },
+    {
+      "id": "acc-134",
+      "name": "Vertex Industries",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 6,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 40
+    },
+    {
+      "id": "acc-135",
+      "name": "Meridian Financial",
+      "industry": "Retail",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 3,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 173
+    },
+    {
+      "id": "acc-136",
+      "name": "Orbit Software",
+      "industry": "Healthcare",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 31,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 65
+    },
+    {
+      "id": "acc-137",
+      "name": "Ember Solutions",
+      "industry": "Other",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 15,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 102
+    },
+    {
+      "id": "acc-138",
+      "name": "Lumen Solutions",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 38,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 162
+    },
+    {
+      "id": "acc-139",
+      "name": "Pinnacle Data",
+      "industry": "Healthcare",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 8,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 22
+    },
+    {
+      "id": "acc-140",
+      "name": "Quantum Systems",
+      "industry": "Healthcare",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 19,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 33
+    },
+    {
+      "id": "acc-141",
+      "name": "Stonebridge Systems",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 13,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 51
+    },
+    {
+      "id": "acc-142",
+      "name": "Cobalt Labs",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 35,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 147
+    },
+    {
+      "id": "acc-143",
+      "name": "Lumen Dynamics",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 10,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 162
+    },
+    {
+      "id": "acc-144",
+      "name": "Ridgeline Digital",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 26,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 93
+    },
+    {
+      "id": "acc-145",
+      "name": "Catalyst Robotics",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 1,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 149
+    },
+    {
+      "id": "acc-146",
+      "name": "Orbit AI",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 27,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 5
+    },
+    {
+      "id": "acc-147",
+      "name": "Horizon Robotics",
+      "industry": "SaaS",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 30,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 142
+    },
+    {
+      "id": "acc-148",
+      "name": "Stonebridge Partners",
+      "industry": "SaaS",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 23,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 66
+    },
+    {
+      "id": "acc-149",
+      "name": "Redwood Technologies",
+      "industry": "Other",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 4,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 114
+    },
+    {
+      "id": "acc-150",
+      "name": "Ember Digital",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 24,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 81
+    },
+    {
+      "id": "acc-151",
+      "name": "Vector Partners",
+      "industry": "Retail",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 10,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 157
+    },
+    {
+      "id": "acc-152",
+      "name": "Pinnacle Networks",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 27,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 100
+    },
+    {
+      "id": "acc-153",
+      "name": "Granite Software",
+      "industry": "Fintech",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 21,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 55
+    },
+    {
+      "id": "acc-154",
+      "name": "Northwind Analytics",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 2,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 70
+    },
+    {
+      "id": "acc-155",
+      "name": "Pioneer Cloud",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 19,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 28
+    },
+    {
+      "id": "acc-156",
+      "name": "Catalyst Analytics",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 12,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 83
+    },
+    {
+      "id": "acc-157",
+      "name": "Vector Logistics",
+      "industry": "SaaS",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 5,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 24
+    },
+    {
+      "id": "acc-158",
+      "name": "Foundry Solutions",
+      "industry": "Fintech",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 10,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 78
+    },
+    {
+      "id": "acc-159",
+      "name": "Clearwater Robotics",
+      "industry": "SaaS",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 7,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 16
+    },
+    {
+      "id": "acc-160",
+      "name": "Beacon Systems",
+      "industry": "Other",
+      "sizeBucket": "201-1000",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 36,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 154
+    },
+    {
+      "id": "acc-161",
+      "name": "Anchor Group",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 15,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 48
+    },
+    {
+      "id": "acc-162",
+      "name": "Silverline Labs",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 1,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 117
+    },
+    {
+      "id": "acc-163",
+      "name": "Granite Logistics",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 38,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 175
+    },
+    {
+      "id": "acc-164",
+      "name": "Northwind Networks",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 23,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 66
+    },
+    {
+      "id": "acc-165",
+      "name": "Pioneer Financial",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 35,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 109
+    },
+    {
+      "id": "acc-166",
+      "name": "Summit Solutions",
+      "industry": "Retail",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 9,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 84
+    },
+    {
+      "id": "acc-167",
+      "name": "Horizon Financial",
+      "industry": "Other",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 37,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 131
+    },
+    {
+      "id": "acc-168",
+      "name": "Ridgeline Robotics",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 7,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 128
+    },
+    {
+      "id": "acc-169",
+      "name": "Nova AI",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 29,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 150
+    },
+    {
+      "id": "acc-170",
+      "name": "Clearwater Software",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 24,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 129
+    },
+    {
+      "id": "acc-171",
+      "name": "Vertex Dynamics",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 30,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 71
+    },
+    {
+      "id": "acc-172",
+      "name": "Bluewave Group",
+      "industry": "Other",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 0,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 106
+    },
+    {
+      "id": "acc-173",
+      "name": "Northwind Works",
+      "industry": "Fintech",
+      "sizeBucket": "51-200",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 39,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 17
+    },
+    {
+      "id": "acc-174",
+      "name": "Foundry Data",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 15,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 127
+    },
+    {
+      "id": "acc-175",
+      "name": "Crestline Partners",
+      "industry": "Other",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 33,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 14
+    },
+    {
+      "id": "acc-176",
+      "name": "Bright Cloud",
+      "industry": "Fintech",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 28,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 174
+    },
+    {
+      "id": "acc-177",
+      "name": "Pinnacle Dynamics",
+      "industry": "Fintech",
+      "sizeBucket": "201-1000",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 28,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 57
+    },
+    {
+      "id": "acc-178",
+      "name": "Horizon Logistics",
+      "industry": "Healthcare",
+      "sizeBucket": "201-1000",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 2,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 55
+    },
+    {
+      "id": "acc-179",
+      "name": "Pioneer Robotics",
+      "industry": "Other",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 19,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 72
+    },
+    {
+      "id": "acc-180",
+      "name": "Ember Group",
+      "industry": "Manufacturing",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 16,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 26
+    },
+    {
+      "id": "acc-181",
+      "name": "Silverline Data",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "APAC",
+      "techStackMatch": true,
+      "emailOpens": 8,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 25
+    },
+    {
+      "id": "acc-182",
+      "name": "Pioneer Industries",
+      "industry": "SaaS",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 40,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 72
+    },
+    {
+      "id": "acc-183",
+      "name": "Summit Industries",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 7,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 107
+    },
+    {
+      "id": "acc-184",
+      "name": "Vertex Data",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 32,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 132
+    },
+    {
+      "id": "acc-185",
+      "name": "Bluewave Robotics",
+      "industry": "Retail",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 28,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 163
+    },
+    {
+      "id": "acc-186",
+      "name": "Foundry Health",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 15,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 29
+    },
+    {
+      "id": "acc-187",
+      "name": "Granite Works",
+      "industry": "SaaS",
+      "sizeBucket": "1000+",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 29,
+      "meetingsBooked": 5,
+      "lastTouchDaysAgo": 158
+    },
+    {
+      "id": "acc-188",
+      "name": "Beacon Partners",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 29,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 104
+    },
+    {
+      "id": "acc-189",
+      "name": "Stonebridge Industries",
+      "industry": "Manufacturing",
+      "sizeBucket": "1-50",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 14,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 54
+    },
+    {
+      "id": "acc-190",
+      "name": "Atlas Cloud",
+      "industry": "Fintech",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 36,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 17
+    },
+    {
+      "id": "acc-191",
+      "name": "Lumen Works",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "APAC",
+      "techStackMatch": false,
+      "emailOpens": 24,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 117
+    },
+    {
+      "id": "acc-192",
+      "name": "Lumen Logistics",
+      "industry": "Healthcare",
+      "sizeBucket": "201-1000",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 22,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 27
+    },
+    {
+      "id": "acc-193",
+      "name": "Northwind Financial",
+      "industry": "Healthcare",
+      "sizeBucket": "1-50",
+      "region": "LATAM",
+      "techStackMatch": false,
+      "emailOpens": 16,
+      "meetingsBooked": 4,
+      "lastTouchDaysAgo": 96
+    },
+    {
+      "id": "acc-194",
+      "name": "Bright Data",
+      "industry": "Healthcare",
+      "sizeBucket": "51-200",
+      "region": "LATAM",
+      "techStackMatch": true,
+      "emailOpens": 19,
+      "meetingsBooked": 0,
+      "lastTouchDaysAgo": 132
+    },
+    {
+      "id": "acc-195",
+      "name": "Vector Systems",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": true,
+      "emailOpens": 21,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 114
+    },
+    {
+      "id": "acc-196",
+      "name": "Beacon Financial",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 23,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 179
+    },
+    {
+      "id": "acc-197",
+      "name": "Bluewave Works",
+      "industry": "Retail",
+      "sizeBucket": "1-50",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 39,
+      "meetingsBooked": 1,
+      "lastTouchDaysAgo": 4
+    },
+    {
+      "id": "acc-198",
+      "name": "Orbit Industries",
+      "industry": "Manufacturing",
+      "sizeBucket": "51-200",
+      "region": "NA",
+      "techStackMatch": false,
+      "emailOpens": 24,
+      "meetingsBooked": 6,
+      "lastTouchDaysAgo": 68
+    },
+    {
+      "id": "acc-199",
+      "name": "Granite Robotics",
+      "industry": "Manufacturing",
+      "sizeBucket": "1000+",
+      "region": "NA",
+      "techStackMatch": true,
+      "emailOpens": 31,
+      "meetingsBooked": 2,
+      "lastTouchDaysAgo": 33
+    },
+    {
+      "id": "acc-200",
+      "name": "Pinnacle Analytics",
+      "industry": "Other",
+      "sizeBucket": "51-200",
+      "region": "EMEA",
+      "techStackMatch": false,
+      "emailOpens": 36,
+      "meetingsBooked": 3,
+      "lastTouchDaysAgo": 40
+    }
+  ],
+  "signals": [
+    {
+      "id": "sig-0001",
+      "accountId": "acc-001",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 143,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0002",
+      "accountId": "acc-002",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 19,
+      "description": "Hired a new Chief Revenue Officer"
+    },
+    {
+      "id": "sig-0003",
+      "accountId": "acc-003",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 160,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0004",
+      "accountId": "acc-004",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 136,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0005",
+      "accountId": "acc-004",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 112,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0006",
+      "accountId": "acc-005",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 33,
+      "description": "Posted 14 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0007",
+      "accountId": "acc-005",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 113,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0008",
+      "accountId": "acc-005",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 42,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0009",
+      "accountId": "acc-005",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 119,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0010",
+      "accountId": "acc-006",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 6,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0011",
+      "accountId": "acc-006",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 31,
+      "description": "Northwind Labs added a public product changelog"
+    },
+    {
+      "id": "sig-0012",
+      "accountId": "acc-006",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 26,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0013",
+      "accountId": "acc-006",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 41,
+      "description": "Northwind Labs added a public product changelog"
+    },
+    {
+      "id": "sig-0014",
+      "accountId": "acc-006",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 4,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0015",
+      "accountId": "acc-006",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 170,
+      "description": "Posted 22 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0016",
+      "accountId": "acc-007",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 81,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0017",
+      "accountId": "acc-007",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 45,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0018",
+      "accountId": "acc-007",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 36,
+      "description": "Posted 18 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0019",
+      "accountId": "acc-007",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 142,
+      "description": "Posted 25 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0020",
+      "accountId": "acc-008",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 108,
+      "description": "Cobalt Networks published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0021",
+      "accountId": "acc-008",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 73,
+      "description": "Posted 18 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0022",
+      "accountId": "acc-008",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 154,
+      "description": "Cobalt Networks shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0023",
+      "accountId": "acc-008",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 1,
+      "description": "Posted 12 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0024",
+      "accountId": "acc-008",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 4,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0025",
+      "accountId": "acc-009",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 29,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0026",
+      "accountId": "acc-009",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 75,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0027",
+      "accountId": "acc-010",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 94,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0028",
+      "accountId": "acc-010",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 173,
+      "description": "Ridgeline Data rebranded their homepage"
+    },
+    {
+      "id": "sig-0029",
+      "accountId": "acc-012",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 7,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0030",
+      "accountId": "acc-013",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 44,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0031",
+      "accountId": "acc-015",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 143,
+      "description": "Posted 22 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0032",
+      "accountId": "acc-016",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 41,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0033",
+      "accountId": "acc-016",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 156,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0034",
+      "accountId": "acc-016",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 100,
+      "description": "Posted 11 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0035",
+      "accountId": "acc-017",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 102,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0036",
+      "accountId": "acc-017",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 101,
+      "description": "Summit Dynamics added a public product changelog"
+    },
+    {
+      "id": "sig-0037",
+      "accountId": "acc-017",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 80,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0038",
+      "accountId": "acc-017",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 39,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0039",
+      "accountId": "acc-018",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 101,
+      "description": "Anchor Technologies rebranded their homepage"
+    },
+    {
+      "id": "sig-0040",
+      "accountId": "acc-018",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 26,
+      "description": "Anchor Technologies relaunched their pricing page"
+    },
+    {
+      "id": "sig-0041",
+      "accountId": "acc-018",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 5,
+      "description": "Posted 17 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0042",
+      "accountId": "acc-018",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 91,
+      "description": "Posted 19 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0043",
+      "accountId": "acc-018",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 128,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0044",
+      "accountId": "acc-019",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 36,
+      "description": "Granite Industries added a public product changelog"
+    },
+    {
+      "id": "sig-0045",
+      "accountId": "acc-019",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 160,
+      "description": "Granite Industries rebranded their homepage"
+    },
+    {
+      "id": "sig-0046",
+      "accountId": "acc-020",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 5,
+      "description": "Posted 11 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0047",
+      "accountId": "acc-020",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 16,
+      "description": "Posted 12 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0048",
+      "accountId": "acc-020",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 61,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0049",
+      "accountId": "acc-020",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 129,
+      "description": "Clearwater Digital relaunched their pricing page"
+    },
+    {
+      "id": "sig-0050",
+      "accountId": "acc-021",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 53,
+      "description": "Posted 18 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0051",
+      "accountId": "acc-021",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 11,
+      "description": "Granite Systems published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0052",
+      "accountId": "acc-021",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 161,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0053",
+      "accountId": "acc-021",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 155,
+      "description": "Granite Systems shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0054",
+      "accountId": "acc-022",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 141,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0055",
+      "accountId": "acc-022",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 77,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0056",
+      "accountId": "acc-023",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 63,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0057",
+      "accountId": "acc-023",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 31,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0058",
+      "accountId": "acc-023",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 171,
+      "description": "Posted 19 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0059",
+      "accountId": "acc-024",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 76,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0060",
+      "accountId": "acc-024",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 110,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0061",
+      "accountId": "acc-025",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 113,
+      "description": "Posted 20 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0062",
+      "accountId": "acc-026",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 161,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0063",
+      "accountId": "acc-026",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 172,
+      "description": "Posted 15 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0064",
+      "accountId": "acc-026",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 109,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0065",
+      "accountId": "acc-027",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 149,
+      "description": "Quantum Dynamics shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0066",
+      "accountId": "acc-027",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 155,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0067",
+      "accountId": "acc-027",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 101,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0068",
+      "accountId": "acc-028",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 138,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0069",
+      "accountId": "acc-028",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 103,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0070",
+      "accountId": "acc-029",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 102,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0071",
+      "accountId": "acc-029",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 101,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0072",
+      "accountId": "acc-029",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 178,
+      "description": "Hired a new Chief Revenue Officer"
+    },
+    {
+      "id": "sig-0073",
+      "accountId": "acc-030",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 174,
+      "description": "Orbit Cloud relaunched their pricing page"
+    },
+    {
+      "id": "sig-0074",
+      "accountId": "acc-030",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 112,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0075",
+      "accountId": "acc-032",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 53,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0076",
+      "accountId": "acc-032",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 113,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0077",
+      "accountId": "acc-033",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 127,
+      "description": "Posted 10 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0078",
+      "accountId": "acc-033",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 60,
+      "description": "Posted 22 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0079",
+      "accountId": "acc-033",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 71,
+      "description": "Orbit Works added a public product changelog"
+    },
+    {
+      "id": "sig-0080",
+      "accountId": "acc-033",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 5,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0081",
+      "accountId": "acc-034",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 171,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0082",
+      "accountId": "acc-035",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 85,
+      "description": "Posted 19 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0083",
+      "accountId": "acc-035",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 164,
+      "description": "Summit Systems rebranded their homepage"
+    },
+    {
+      "id": "sig-0084",
+      "accountId": "acc-037",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 58,
+      "description": "Northwind Robotics relaunched their pricing page"
+    },
+    {
+      "id": "sig-0085",
+      "accountId": "acc-038",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 180,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0086",
+      "accountId": "acc-038",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 50,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0087",
+      "accountId": "acc-038",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 72,
+      "description": "Posted 7 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0088",
+      "accountId": "acc-038",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 46,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0089",
+      "accountId": "acc-038",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 9,
+      "description": "Posted 14 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0090",
+      "accountId": "acc-038",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 81,
+      "description": "Ironclad Robotics relaunched their pricing page"
+    },
+    {
+      "id": "sig-0091",
+      "accountId": "acc-038",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 86,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0092",
+      "accountId": "acc-039",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 26,
+      "description": "Ember Robotics relaunched their pricing page"
+    },
+    {
+      "id": "sig-0093",
+      "accountId": "acc-039",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 19,
+      "description": "Ember Robotics shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0094",
+      "accountId": "acc-039",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 84,
+      "description": "Posted 6 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0095",
+      "accountId": "acc-039",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 143,
+      "description": "Posted 24 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0096",
+      "accountId": "acc-040",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 45,
+      "description": "Bluewave Labs relaunched their pricing page"
+    },
+    {
+      "id": "sig-0097",
+      "accountId": "acc-040",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 162,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0098",
+      "accountId": "acc-040",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 71,
+      "description": "Bluewave Labs relaunched their pricing page"
+    },
+    {
+      "id": "sig-0099",
+      "accountId": "acc-041",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 146,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0100",
+      "accountId": "acc-041",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 11,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0101",
+      "accountId": "acc-041",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 105,
+      "description": "Bright Logistics shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0102",
+      "accountId": "acc-042",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 40,
+      "description": "Posted 14 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0103",
+      "accountId": "acc-042",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 73,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0104",
+      "accountId": "acc-044",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 106,
+      "description": "Posted 11 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0105",
+      "accountId": "acc-044",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 140,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0106",
+      "accountId": "acc-044",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 0,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0107",
+      "accountId": "acc-044",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 88,
+      "description": "Redwood Health shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0108",
+      "accountId": "acc-045",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 108,
+      "description": "Horizon Networks published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0109",
+      "accountId": "acc-046",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 118,
+      "description": "Ember Partners rebranded their homepage"
+    },
+    {
+      "id": "sig-0110",
+      "accountId": "acc-046",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 59,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0111",
+      "accountId": "acc-048",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 177,
+      "description": "Posted 16 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0112",
+      "accountId": "acc-048",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 117,
+      "description": "Orbit Analytics shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0113",
+      "accountId": "acc-048",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 16,
+      "description": "Orbit Analytics shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0114",
+      "accountId": "acc-048",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 111,
+      "description": "Posted 24 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0115",
+      "accountId": "acc-048",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 74,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0116",
+      "accountId": "acc-049",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 37,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0117",
+      "accountId": "acc-050",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 96,
+      "description": "Posted 20 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0118",
+      "accountId": "acc-050",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 149,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0119",
+      "accountId": "acc-051",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 106,
+      "description": "Cascade Financial published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0120",
+      "accountId": "acc-051",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 125,
+      "description": "Cascade Financial shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0121",
+      "accountId": "acc-051",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 114,
+      "description": "Cascade Financial published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0122",
+      "accountId": "acc-051",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 171,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0123",
+      "accountId": "acc-052",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 137,
+      "description": "Posted 8 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0124",
+      "accountId": "acc-052",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 160,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0125",
+      "accountId": "acc-052",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 32,
+      "description": "Cascade Labs published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0126",
+      "accountId": "acc-053",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 22,
+      "description": "Ironclad Cloud relaunched their pricing page"
+    },
+    {
+      "id": "sig-0127",
+      "accountId": "acc-053",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 161,
+      "description": "Posted 17 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0128",
+      "accountId": "acc-054",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 17,
+      "description": "Posted 23 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0129",
+      "accountId": "acc-054",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 52,
+      "description": "Stonebridge Solutions added a public product changelog"
+    },
+    {
+      "id": "sig-0130",
+      "accountId": "acc-055",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 87,
+      "description": "Hired a new Chief Revenue Officer"
+    },
+    {
+      "id": "sig-0131",
+      "accountId": "acc-056",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 110,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0132",
+      "accountId": "acc-057",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 12,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0133",
+      "accountId": "acc-058",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 114,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0134",
+      "accountId": "acc-059",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 107,
+      "description": "Posted 19 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0135",
+      "accountId": "acc-059",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 174,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0136",
+      "accountId": "acc-060",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 137,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0137",
+      "accountId": "acc-061",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 148,
+      "description": "Orbit Digital published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0138",
+      "accountId": "acc-061",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 86,
+      "description": "Posted 9 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0139",
+      "accountId": "acc-061",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 66,
+      "description": "Posted 21 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0140",
+      "accountId": "acc-061",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 159,
+      "description": "Posted 7 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0141",
+      "accountId": "acc-062",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 21,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0142",
+      "accountId": "acc-062",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 150,
+      "description": "Beacon Labs relaunched their pricing page"
+    },
+    {
+      "id": "sig-0143",
+      "accountId": "acc-062",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 87,
+      "description": "Posted 18 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0144",
+      "accountId": "acc-062",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 67,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0145",
+      "accountId": "acc-063",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 79,
+      "description": "Nova Software rebranded their homepage"
+    },
+    {
+      "id": "sig-0146",
+      "accountId": "acc-063",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 168,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0147",
+      "accountId": "acc-063",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 69,
+      "description": "Nova Software added a public product changelog"
+    },
+    {
+      "id": "sig-0148",
+      "accountId": "acc-063",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 70,
+      "description": "Posted 15 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0149",
+      "accountId": "acc-063",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 28,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0150",
+      "accountId": "acc-063",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 95,
+      "description": "Posted 7 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0151",
+      "accountId": "acc-063",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 76,
+      "description": "Posted 20 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0152",
+      "accountId": "acc-064",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 157,
+      "description": "Posted 11 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0153",
+      "accountId": "acc-064",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 26,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0154",
+      "accountId": "acc-065",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 165,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0155",
+      "accountId": "acc-066",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 72,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0156",
+      "accountId": "acc-066",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 86,
+      "description": "Anchor Solutions added a public product changelog"
+    },
+    {
+      "id": "sig-0157",
+      "accountId": "acc-066",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 164,
+      "description": "Posted 6 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0158",
+      "accountId": "acc-066",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 59,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0159",
+      "accountId": "acc-067",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 47,
+      "description": "Horizon Labs shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0160",
+      "accountId": "acc-067",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 40,
+      "description": "Horizon Labs relaunched their pricing page"
+    },
+    {
+      "id": "sig-0161",
+      "accountId": "acc-067",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 140,
+      "description": "Horizon Labs added a public product changelog"
+    },
+    {
+      "id": "sig-0162",
+      "accountId": "acc-067",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 31,
+      "description": "Horizon Labs published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0163",
+      "accountId": "acc-067",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 123,
+      "description": "Posted 8 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0164",
+      "accountId": "acc-067",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 47,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0165",
+      "accountId": "acc-067",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 52,
+      "description": "Posted 6 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0166",
+      "accountId": "acc-067",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 61,
+      "description": "Horizon Labs shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0167",
+      "accountId": "acc-068",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 40,
+      "description": "Foundry Digital shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0168",
+      "accountId": "acc-069",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 159,
+      "description": "Hired a new Chief Revenue Officer"
+    },
+    {
+      "id": "sig-0169",
+      "accountId": "acc-069",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 121,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0170",
+      "accountId": "acc-070",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 107,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0171",
+      "accountId": "acc-070",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 53,
+      "description": "Catalyst Health published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0172",
+      "accountId": "acc-070",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 41,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0173",
+      "accountId": "acc-072",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 124,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0174",
+      "accountId": "acc-073",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 131,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0175",
+      "accountId": "acc-074",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 48,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0176",
+      "accountId": "acc-075",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 160,
+      "description": "Vector AI shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0177",
+      "accountId": "acc-075",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 4,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0178",
+      "accountId": "acc-076",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 123,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0179",
+      "accountId": "acc-076",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 149,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0180",
+      "accountId": "acc-076",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 10,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0181",
+      "accountId": "acc-076",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 47,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0182",
+      "accountId": "acc-077",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 59,
+      "description": "Posted 24 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0183",
+      "accountId": "acc-077",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 38,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0184",
+      "accountId": "acc-078",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 124,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0185",
+      "accountId": "acc-078",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 3,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0186",
+      "accountId": "acc-079",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 148,
+      "description": "Lumen Financial rebranded their homepage"
+    },
+    {
+      "id": "sig-0187",
+      "accountId": "acc-079",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 114,
+      "description": "Posted 23 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0188",
+      "accountId": "acc-079",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 124,
+      "description": "Posted 9 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0189",
+      "accountId": "acc-079",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 47,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0190",
+      "accountId": "acc-080",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 100,
+      "description": "Posted 20 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0191",
+      "accountId": "acc-080",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 7,
+      "description": "Posted 7 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0192",
+      "accountId": "acc-080",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 46,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0193",
+      "accountId": "acc-081",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 167,
+      "description": "Ridgeline Dynamics shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0194",
+      "accountId": "acc-081",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 145,
+      "description": "Ridgeline Dynamics added a public product changelog"
+    },
+    {
+      "id": "sig-0195",
+      "accountId": "acc-082",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 160,
+      "description": "Posted 25 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0196",
+      "accountId": "acc-082",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 31,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0197",
+      "accountId": "acc-082",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 123,
+      "description": "Hired a new Chief Revenue Officer"
+    },
+    {
+      "id": "sig-0198",
+      "accountId": "acc-083",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 150,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0199",
+      "accountId": "acc-083",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 35,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0200",
+      "accountId": "acc-083",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 54,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0201",
+      "accountId": "acc-084",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 145,
+      "description": "Cascade Cloud published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0202",
+      "accountId": "acc-084",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 0,
+      "description": "Cascade Cloud added a public product changelog"
+    },
+    {
+      "id": "sig-0203",
+      "accountId": "acc-085",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 147,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0204",
+      "accountId": "acc-085",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 114,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0205",
+      "accountId": "acc-085",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 116,
+      "description": "Foundry Software rebranded their homepage"
+    },
+    {
+      "id": "sig-0206",
+      "accountId": "acc-085",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 103,
+      "description": "Foundry Software shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0207",
+      "accountId": "acc-086",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 172,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0208",
+      "accountId": "acc-087",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 54,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0209",
+      "accountId": "acc-087",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 160,
+      "description": "Posted 12 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0210",
+      "accountId": "acc-088",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 0,
+      "description": "Posted 15 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0211",
+      "accountId": "acc-088",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 157,
+      "description": "Posted 14 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0212",
+      "accountId": "acc-089",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 144,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0213",
+      "accountId": "acc-089",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 165,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0214",
+      "accountId": "acc-089",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 170,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0215",
+      "accountId": "acc-089",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 40,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0216",
+      "accountId": "acc-089",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 180,
+      "description": "Posted 8 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0217",
+      "accountId": "acc-089",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 165,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0218",
+      "accountId": "acc-089",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 73,
+      "description": "Clearwater Partners published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0219",
+      "accountId": "acc-090",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 144,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0220",
+      "accountId": "acc-090",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 81,
+      "description": "Posted 25 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0221",
+      "accountId": "acc-091",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 170,
+      "description": "Horizon Dynamics added a public product changelog"
+    },
+    {
+      "id": "sig-0222",
+      "accountId": "acc-092",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 90,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0223",
+      "accountId": "acc-092",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 110,
+      "description": "Posted 6 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0224",
+      "accountId": "acc-092",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 83,
+      "description": "Summit Data shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0225",
+      "accountId": "acc-092",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 159,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0226",
+      "accountId": "acc-093",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 105,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0227",
+      "accountId": "acc-094",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 169,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0228",
+      "accountId": "acc-094",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 123,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0229",
+      "accountId": "acc-094",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 137,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0230",
+      "accountId": "acc-094",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 83,
+      "description": "Posted 20 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0231",
+      "accountId": "acc-094",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 44,
+      "description": "Posted 9 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0232",
+      "accountId": "acc-094",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 131,
+      "description": "Posted 19 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0233",
+      "accountId": "acc-094",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 37,
+      "description": "Posted 16 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0234",
+      "accountId": "acc-095",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 131,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0235",
+      "accountId": "acc-096",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 56,
+      "description": "Posted 19 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0236",
+      "accountId": "acc-096",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 142,
+      "description": "Posted 24 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0237",
+      "accountId": "acc-096",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 73,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0238",
+      "accountId": "acc-096",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 140,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0239",
+      "accountId": "acc-096",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 115,
+      "description": "Cobalt Financial added a public product changelog"
+    },
+    {
+      "id": "sig-0240",
+      "accountId": "acc-097",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 80,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0241",
+      "accountId": "acc-097",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 21,
+      "description": "Posted 24 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0242",
+      "accountId": "acc-097",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 129,
+      "description": "Lumen Systems shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0243",
+      "accountId": "acc-098",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 26,
+      "description": "Orbit Financial added a public product changelog"
+    },
+    {
+      "id": "sig-0244",
+      "accountId": "acc-098",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 25,
+      "description": "Orbit Financial added a public product changelog"
+    },
+    {
+      "id": "sig-0245",
+      "accountId": "acc-098",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 56,
+      "description": "Posted 6 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0246",
+      "accountId": "acc-098",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 34,
+      "description": "Orbit Financial published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0247",
+      "accountId": "acc-098",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 162,
+      "description": "Orbit Financial rebranded their homepage"
+    },
+    {
+      "id": "sig-0248",
+      "accountId": "acc-099",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 60,
+      "description": "Posted 23 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0249",
+      "accountId": "acc-099",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 162,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0250",
+      "accountId": "acc-099",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 122,
+      "description": "Posted 22 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0251",
+      "accountId": "acc-099",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 61,
+      "description": "Vertex Health added a public product changelog"
+    },
+    {
+      "id": "sig-0252",
+      "accountId": "acc-100",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 32,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0253",
+      "accountId": "acc-100",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 68,
+      "description": "Stonebridge Health relaunched their pricing page"
+    },
+    {
+      "id": "sig-0254",
+      "accountId": "acc-100",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 10,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0255",
+      "accountId": "acc-102",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 24,
+      "description": "Vector Robotics relaunched their pricing page"
+    },
+    {
+      "id": "sig-0256",
+      "accountId": "acc-102",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 145,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0257",
+      "accountId": "acc-102",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 68,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0258",
+      "accountId": "acc-103",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 64,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0259",
+      "accountId": "acc-103",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 172,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0260",
+      "accountId": "acc-104",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 75,
+      "description": "Posted 24 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0261",
+      "accountId": "acc-104",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 113,
+      "description": "Posted 8 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0262",
+      "accountId": "acc-104",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 177,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0263",
+      "accountId": "acc-104",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 148,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0264",
+      "accountId": "acc-104",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 142,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0265",
+      "accountId": "acc-105",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 36,
+      "description": "Cascade Group rebranded their homepage"
+    },
+    {
+      "id": "sig-0266",
+      "accountId": "acc-105",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 75,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0267",
+      "accountId": "acc-105",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 116,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0268",
+      "accountId": "acc-105",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 135,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0269",
+      "accountId": "acc-106",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 40,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0270",
+      "accountId": "acc-106",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 178,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0271",
+      "accountId": "acc-107",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 108,
+      "description": "Pioneer Data rebranded their homepage"
+    },
+    {
+      "id": "sig-0272",
+      "accountId": "acc-107",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 11,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0273",
+      "accountId": "acc-107",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 74,
+      "description": "Posted 12 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0274",
+      "accountId": "acc-108",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 140,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0275",
+      "accountId": "acc-108",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 111,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0276",
+      "accountId": "acc-108",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 144,
+      "description": "Northwind Technologies added a public product changelog"
+    },
+    {
+      "id": "sig-0277",
+      "accountId": "acc-108",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 136,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0278",
+      "accountId": "acc-109",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 151,
+      "description": "Anchor Works relaunched their pricing page"
+    },
+    {
+      "id": "sig-0279",
+      "accountId": "acc-109",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 101,
+      "description": "Anchor Works published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0280",
+      "accountId": "acc-110",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 124,
+      "description": "Nova Partners published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0281",
+      "accountId": "acc-110",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 149,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0282",
+      "accountId": "acc-110",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 2,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0283",
+      "accountId": "acc-111",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 77,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0284",
+      "accountId": "acc-111",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 59,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0285",
+      "accountId": "acc-112",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 125,
+      "description": "Posted 20 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0286",
+      "accountId": "acc-112",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 121,
+      "description": "Posted 24 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0287",
+      "accountId": "acc-112",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 159,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0288",
+      "accountId": "acc-113",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 112,
+      "description": "Posted 22 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0289",
+      "accountId": "acc-113",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 15,
+      "description": "Posted 15 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0290",
+      "accountId": "acc-114",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 85,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0291",
+      "accountId": "acc-114",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 127,
+      "description": "Posted 9 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0292",
+      "accountId": "acc-115",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 174,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0293",
+      "accountId": "acc-115",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 40,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0294",
+      "accountId": "acc-115",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 19,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0295",
+      "accountId": "acc-115",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 65,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0296",
+      "accountId": "acc-115",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 83,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0297",
+      "accountId": "acc-115",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 118,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0298",
+      "accountId": "acc-116",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 101,
+      "description": "Cascade Networks published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0299",
+      "accountId": "acc-116",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 129,
+      "description": "Posted 6 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0300",
+      "accountId": "acc-116",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 48,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0301",
+      "accountId": "acc-116",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 149,
+      "description": "Cascade Networks published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0302",
+      "accountId": "acc-118",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 114,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0303",
+      "accountId": "acc-118",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 140,
+      "description": "Posted 12 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0304",
+      "accountId": "acc-119",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 75,
+      "description": "Posted 14 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0305",
+      "accountId": "acc-119",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 22,
+      "description": "Posted 18 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0306",
+      "accountId": "acc-119",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 107,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0307",
+      "accountId": "acc-121",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 126,
+      "description": "Crestline AI added a public product changelog"
+    },
+    {
+      "id": "sig-0308",
+      "accountId": "acc-121",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 13,
+      "description": "Posted 20 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0309",
+      "accountId": "acc-122",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 28,
+      "description": "Posted 14 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0310",
+      "accountId": "acc-122",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 126,
+      "description": "Posted 20 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0311",
+      "accountId": "acc-122",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 41,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0312",
+      "accountId": "acc-122",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 159,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0313",
+      "accountId": "acc-123",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 41,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0314",
+      "accountId": "acc-125",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 113,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0315",
+      "accountId": "acc-125",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 131,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0316",
+      "accountId": "acc-125",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 145,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0317",
+      "accountId": "acc-126",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 29,
+      "description": "Bluewave Systems rebranded their homepage"
+    },
+    {
+      "id": "sig-0318",
+      "accountId": "acc-126",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 9,
+      "description": "Posted 22 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0319",
+      "accountId": "acc-128",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 127,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0320",
+      "accountId": "acc-129",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 61,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0321",
+      "accountId": "acc-129",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 57,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0322",
+      "accountId": "acc-129",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 45,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0323",
+      "accountId": "acc-130",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 160,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0324",
+      "accountId": "acc-130",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 10,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0325",
+      "accountId": "acc-130",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 33,
+      "description": "Posted 13 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0326",
+      "accountId": "acc-130",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 111,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0327",
+      "accountId": "acc-131",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 3,
+      "description": "Catalyst Partners published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0328",
+      "accountId": "acc-132",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 16,
+      "description": "Posted 25 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0329",
+      "accountId": "acc-133",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 61,
+      "description": "Posted 13 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0330",
+      "accountId": "acc-133",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 15,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0331",
+      "accountId": "acc-133",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 108,
+      "description": "Posted 9 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0332",
+      "accountId": "acc-133",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 177,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0333",
+      "accountId": "acc-133",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 151,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0334",
+      "accountId": "acc-133",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 37,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0335",
+      "accountId": "acc-133",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 137,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0336",
+      "accountId": "acc-134",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 151,
+      "description": "Vertex Industries rebranded their homepage"
+    },
+    {
+      "id": "sig-0337",
+      "accountId": "acc-134",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 86,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0338",
+      "accountId": "acc-135",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 28,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0339",
+      "accountId": "acc-135",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 121,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0340",
+      "accountId": "acc-135",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 125,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0341",
+      "accountId": "acc-136",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 14,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0342",
+      "accountId": "acc-136",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 156,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0343",
+      "accountId": "acc-136",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 83,
+      "description": "Posted 20 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0344",
+      "accountId": "acc-137",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 58,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0345",
+      "accountId": "acc-138",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 136,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0346",
+      "accountId": "acc-138",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 159,
+      "description": "Posted 24 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0347",
+      "accountId": "acc-138",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 18,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0348",
+      "accountId": "acc-138",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 34,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0349",
+      "accountId": "acc-139",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 75,
+      "description": "Posted 16 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0350",
+      "accountId": "acc-140",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 168,
+      "description": "Quantum Systems rebranded their homepage"
+    },
+    {
+      "id": "sig-0351",
+      "accountId": "acc-140",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 47,
+      "description": "Posted 23 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0352",
+      "accountId": "acc-141",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 88,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0353",
+      "accountId": "acc-141",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 117,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0354",
+      "accountId": "acc-141",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 84,
+      "description": "Stonebridge Systems added a public product changelog"
+    },
+    {
+      "id": "sig-0355",
+      "accountId": "acc-141",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 101,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0356",
+      "accountId": "acc-141",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 123,
+      "description": "Posted 14 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0357",
+      "accountId": "acc-142",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 126,
+      "description": "Posted 14 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0358",
+      "accountId": "acc-142",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 141,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0359",
+      "accountId": "acc-142",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 65,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0360",
+      "accountId": "acc-142",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 168,
+      "description": "Posted 19 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0361",
+      "accountId": "acc-142",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 166,
+      "description": "Cobalt Labs published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0362",
+      "accountId": "acc-143",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 58,
+      "description": "Lumen Dynamics shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0363",
+      "accountId": "acc-143",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 142,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0364",
+      "accountId": "acc-144",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 73,
+      "description": "Posted 16 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0365",
+      "accountId": "acc-144",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 37,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0366",
+      "accountId": "acc-144",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 70,
+      "description": "Posted 13 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0367",
+      "accountId": "acc-145",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 55,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0368",
+      "accountId": "acc-145",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 145,
+      "description": "Posted 23 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0369",
+      "accountId": "acc-146",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 20,
+      "description": "Posted 14 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0370",
+      "accountId": "acc-146",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 93,
+      "description": "Orbit AI published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0371",
+      "accountId": "acc-146",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 131,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0372",
+      "accountId": "acc-146",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 155,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0373",
+      "accountId": "acc-146",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 75,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0374",
+      "accountId": "acc-146",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 169,
+      "description": "Orbit AI rebranded their homepage"
+    },
+    {
+      "id": "sig-0375",
+      "accountId": "acc-146",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 50,
+      "description": "Posted 8 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0376",
+      "accountId": "acc-146",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 88,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0377",
+      "accountId": "acc-147",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 2,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0378",
+      "accountId": "acc-147",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 47,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0379",
+      "accountId": "acc-147",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 90,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0380",
+      "accountId": "acc-147",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 25,
+      "description": "Horizon Robotics rebranded their homepage"
+    },
+    {
+      "id": "sig-0381",
+      "accountId": "acc-148",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 110,
+      "description": "Stonebridge Partners shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0382",
+      "accountId": "acc-149",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 102,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0383",
+      "accountId": "acc-150",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 96,
+      "description": "Ember Digital relaunched their pricing page"
+    },
+    {
+      "id": "sig-0384",
+      "accountId": "acc-150",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 84,
+      "description": "Ember Digital shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0385",
+      "accountId": "acc-151",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 135,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0386",
+      "accountId": "acc-152",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 113,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0387",
+      "accountId": "acc-152",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 31,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0388",
+      "accountId": "acc-152",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 24,
+      "description": "Posted 25 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0389",
+      "accountId": "acc-152",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 22,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0390",
+      "accountId": "acc-152",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 98,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0391",
+      "accountId": "acc-152",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 96,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0392",
+      "accountId": "acc-153",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 154,
+      "description": "Posted 11 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0393",
+      "accountId": "acc-153",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 62,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0394",
+      "accountId": "acc-154",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 155,
+      "description": "Raised $95M Series C"
+    },
+    {
+      "id": "sig-0395",
+      "accountId": "acc-154",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 101,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0396",
+      "accountId": "acc-155",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 95,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0397",
+      "accountId": "acc-155",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 123,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0398",
+      "accountId": "acc-155",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 33,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0399",
+      "accountId": "acc-156",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 79,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0400",
+      "accountId": "acc-157",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 139,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0401",
+      "accountId": "acc-157",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 1,
+      "description": "Vector Logistics published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0402",
+      "accountId": "acc-157",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 85,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0403",
+      "accountId": "acc-158",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 42,
+      "description": "Posted 20 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0404",
+      "accountId": "acc-158",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 50,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0405",
+      "accountId": "acc-158",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 25,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0406",
+      "accountId": "acc-159",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 85,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0407",
+      "accountId": "acc-160",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 56,
+      "description": "Posted 18 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0408",
+      "accountId": "acc-160",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 86,
+      "description": "Migrated to Segment"
+    },
+    {
+      "id": "sig-0409",
+      "accountId": "acc-160",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 171,
+      "description": "Posted 17 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0410",
+      "accountId": "acc-160",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 12,
+      "description": "Posted 9 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0411",
+      "accountId": "acc-161",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 12,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0412",
+      "accountId": "acc-162",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 147,
+      "description": "Posted 17 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0413",
+      "accountId": "acc-162",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 47,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0414",
+      "accountId": "acc-162",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 73,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0415",
+      "accountId": "acc-162",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 143,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0416",
+      "accountId": "acc-163",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 14,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0417",
+      "accountId": "acc-163",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 39,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0418",
+      "accountId": "acc-163",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 42,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0419",
+      "accountId": "acc-163",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 90,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0420",
+      "accountId": "acc-163",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 169,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0421",
+      "accountId": "acc-164",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 169,
+      "description": "Posted 24 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0422",
+      "accountId": "acc-164",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 142,
+      "description": "Hired a new Chief Revenue Officer"
+    },
+    {
+      "id": "sig-0423",
+      "accountId": "acc-164",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 38,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0424",
+      "accountId": "acc-165",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 63,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0425",
+      "accountId": "acc-165",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 99,
+      "description": "Posted 24 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0426",
+      "accountId": "acc-165",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 166,
+      "description": "Hired a new Head of Marketing"
+    },
+    {
+      "id": "sig-0427",
+      "accountId": "acc-165",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 92,
+      "description": "Pioneer Financial added a public product changelog"
+    },
+    {
+      "id": "sig-0428",
+      "accountId": "acc-165",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 134,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0429",
+      "accountId": "acc-165",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 37,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0430",
+      "accountId": "acc-165",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 175,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0431",
+      "accountId": "acc-166",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 53,
+      "description": "Summit Solutions rebranded their homepage"
+    },
+    {
+      "id": "sig-0432",
+      "accountId": "acc-166",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 120,
+      "description": "Posted 7 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0433",
+      "accountId": "acc-167",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 83,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0434",
+      "accountId": "acc-167",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 171,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0435",
+      "accountId": "acc-167",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 29,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0436",
+      "accountId": "acc-167",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 22,
+      "description": "Horizon Financial published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0437",
+      "accountId": "acc-168",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 68,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0438",
+      "accountId": "acc-169",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 85,
+      "description": "Migrated to Kubernetes"
+    },
+    {
+      "id": "sig-0439",
+      "accountId": "acc-169",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 169,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0440",
+      "accountId": "acc-170",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 62,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0441",
+      "accountId": "acc-171",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 34,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0442",
+      "accountId": "acc-171",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 105,
+      "description": "Vertex Dynamics rebranded their homepage"
+    },
+    {
+      "id": "sig-0443",
+      "accountId": "acc-171",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 13,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0444",
+      "accountId": "acc-172",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 17,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0445",
+      "accountId": "acc-172",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 133,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0446",
+      "accountId": "acc-173",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 0,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0447",
+      "accountId": "acc-173",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 120,
+      "description": "Hired a new Chief Revenue Officer"
+    },
+    {
+      "id": "sig-0448",
+      "accountId": "acc-174",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 60,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0449",
+      "accountId": "acc-174",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 83,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0450",
+      "accountId": "acc-175",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 55,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0451",
+      "accountId": "acc-175",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 24,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0452",
+      "accountId": "acc-175",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 27,
+      "description": "Posted 20 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0453",
+      "accountId": "acc-175",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 141,
+      "description": "Crestline Partners rebranded their homepage"
+    },
+    {
+      "id": "sig-0454",
+      "accountId": "acc-175",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 111,
+      "description": "Posted 15 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0455",
+      "accountId": "acc-175",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 4,
+      "description": "Crestline Partners shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0456",
+      "accountId": "acc-175",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 42,
+      "description": "Posted 20 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0457",
+      "accountId": "acc-175",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 54,
+      "description": "Posted 16 new Product job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0458",
+      "accountId": "acc-176",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 131,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0459",
+      "accountId": "acc-176",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 169,
+      "description": "Posted 25 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0460",
+      "accountId": "acc-176",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 116,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0461",
+      "accountId": "acc-177",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 123,
+      "description": "Pinnacle Dynamics added a public product changelog"
+    },
+    {
+      "id": "sig-0462",
+      "accountId": "acc-177",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 43,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0463",
+      "accountId": "acc-177",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 42,
+      "description": "Pinnacle Dynamics added a public product changelog"
+    },
+    {
+      "id": "sig-0464",
+      "accountId": "acc-177",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 84,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0465",
+      "accountId": "acc-178",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 179,
+      "description": "Posted 13 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0466",
+      "accountId": "acc-178",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 37,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0467",
+      "accountId": "acc-178",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 105,
+      "description": "Posted 7 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0468",
+      "accountId": "acc-179",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 35,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0469",
+      "accountId": "acc-180",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 13,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0470",
+      "accountId": "acc-181",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 142,
+      "description": "Posted 12 new Sales job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0471",
+      "accountId": "acc-181",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 138,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0472",
+      "accountId": "acc-182",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 67,
+      "description": "Raised $120M Series C"
+    },
+    {
+      "id": "sig-0473",
+      "accountId": "acc-182",
+      "type": "leadership-change",
+      "strength": 1,
+      "daysAgo": 86,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0474",
+      "accountId": "acc-183",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 165,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0475",
+      "accountId": "acc-183",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 75,
+      "description": "Summit Industries shipped a new developer documentation site"
+    },
+    {
+      "id": "sig-0476",
+      "accountId": "acc-183",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 151,
+      "description": "Posted 13 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0477",
+      "accountId": "acc-183",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 145,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0478",
+      "accountId": "acc-184",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 144,
+      "description": "Posted 10 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0479",
+      "accountId": "acc-184",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 21,
+      "description": "Posted 21 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0480",
+      "accountId": "acc-184",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 100,
+      "description": "Posted 23 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0481",
+      "accountId": "acc-186",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 16,
+      "description": "Foundry Health added a public product changelog"
+    },
+    {
+      "id": "sig-0482",
+      "accountId": "acc-186",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 121,
+      "description": "Hired a new VP of Engineering"
+    },
+    {
+      "id": "sig-0483",
+      "accountId": "acc-186",
+      "type": "hiring-surge",
+      "strength": 1,
+      "daysAgo": 80,
+      "description": "Posted 16 new Customer Success job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0484",
+      "accountId": "acc-187",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 29,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0485",
+      "accountId": "acc-187",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 21,
+      "description": "Raised $68M Series B"
+    },
+    {
+      "id": "sig-0486",
+      "accountId": "acc-187",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 78,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0487",
+      "accountId": "acc-187",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 104,
+      "description": "Granite Works added a public product changelog"
+    },
+    {
+      "id": "sig-0488",
+      "accountId": "acc-188",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 84,
+      "description": "Beacon Partners added a public product changelog"
+    },
+    {
+      "id": "sig-0489",
+      "accountId": "acc-188",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 142,
+      "description": "Raised $22M Series A"
+    },
+    {
+      "id": "sig-0490",
+      "accountId": "acc-189",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 93,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0491",
+      "accountId": "acc-189",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 165,
+      "description": "Raised $15M Series A"
+    },
+    {
+      "id": "sig-0492",
+      "accountId": "acc-189",
+      "type": "leadership-change",
+      "strength": 3,
+      "daysAgo": 76,
+      "description": "Hired a new Chief Technology Officer"
+    },
+    {
+      "id": "sig-0493",
+      "accountId": "acc-189",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 18,
+      "description": "Migrated to Snowflake"
+    },
+    {
+      "id": "sig-0494",
+      "accountId": "acc-190",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 126,
+      "description": "Hired a new VP of Sales"
+    },
+    {
+      "id": "sig-0495",
+      "accountId": "acc-190",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 75,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0496",
+      "accountId": "acc-191",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 165,
+      "description": "Migrated to Stripe Billing"
+    },
+    {
+      "id": "sig-0497",
+      "accountId": "acc-191",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 34,
+      "description": "Lumen Works relaunched their pricing page"
+    },
+    {
+      "id": "sig-0498",
+      "accountId": "acc-192",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 69,
+      "description": "Lumen Logistics relaunched their pricing page"
+    },
+    {
+      "id": "sig-0499",
+      "accountId": "acc-192",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 104,
+      "description": "Hired a new VP of Customer Success"
+    },
+    {
+      "id": "sig-0500",
+      "accountId": "acc-192",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 33,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0501",
+      "accountId": "acc-193",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 90,
+      "description": "Raised $42M Series B"
+    },
+    {
+      "id": "sig-0502",
+      "accountId": "acc-194",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 86,
+      "description": "Posted 18 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0503",
+      "accountId": "acc-194",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 103,
+      "description": "Posted 8 new Engineering job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0504",
+      "accountId": "acc-195",
+      "type": "funding",
+      "strength": 3,
+      "daysAgo": 129,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0505",
+      "accountId": "acc-196",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 124,
+      "description": "Raised $4M Seed"
+    },
+    {
+      "id": "sig-0506",
+      "accountId": "acc-196",
+      "type": "tech-change",
+      "strength": 3,
+      "daysAgo": 84,
+      "description": "Migrated to Salesforce"
+    },
+    {
+      "id": "sig-0507",
+      "accountId": "acc-196",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 146,
+      "description": "Beacon Financial rebranded their homepage"
+    },
+    {
+      "id": "sig-0508",
+      "accountId": "acc-197",
+      "type": "tech-change",
+      "strength": 2,
+      "daysAgo": 42,
+      "description": "Migrated to Datadog"
+    },
+    {
+      "id": "sig-0509",
+      "accountId": "acc-197",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 164,
+      "description": "Bluewave Works published a new enterprise product line page"
+    },
+    {
+      "id": "sig-0510",
+      "accountId": "acc-197",
+      "type": "website-change",
+      "strength": 3,
+      "daysAgo": 177,
+      "description": "Bluewave Works rebranded their homepage"
+    },
+    {
+      "id": "sig-0511",
+      "accountId": "acc-197",
+      "type": "hiring-surge",
+      "strength": 3,
+      "daysAgo": 136,
+      "description": "Posted 24 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0512",
+      "accountId": "acc-197",
+      "type": "funding",
+      "strength": 1,
+      "daysAgo": 111,
+      "description": "Raised $8M Seed"
+    },
+    {
+      "id": "sig-0513",
+      "accountId": "acc-198",
+      "type": "website-change",
+      "strength": 1,
+      "daysAgo": 1,
+      "description": "Orbit Industries rebranded their homepage"
+    },
+    {
+      "id": "sig-0514",
+      "accountId": "acc-198",
+      "type": "leadership-change",
+      "strength": 2,
+      "daysAgo": 159,
+      "description": "Hired a new Chief Product Officer"
+    },
+    {
+      "id": "sig-0515",
+      "accountId": "acc-198",
+      "type": "hiring-surge",
+      "strength": 2,
+      "daysAgo": 32,
+      "description": "Posted 17 new Marketing job postings in the last 30 days"
+    },
+    {
+      "id": "sig-0516",
+      "accountId": "acc-199",
+      "type": "tech-change",
+      "strength": 1,
+      "daysAgo": 131,
+      "description": "Migrated to HubSpot"
+    },
+    {
+      "id": "sig-0517",
+      "accountId": "acc-199",
+      "type": "website-change",
+      "strength": 2,
+      "daysAgo": 40,
+      "description": "Granite Robotics added a public product changelog"
+    },
+    {
+      "id": "sig-0518",
+      "accountId": "acc-199",
+      "type": "funding",
+      "strength": 2,
+      "daysAgo": 48,
+      "description": "Raised $15M Series A"
+    }
+  ]
+}
